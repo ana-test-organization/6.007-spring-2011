@@ -9,9 +9,9 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+license: https://creativecommons.org/licenses/by-nc/4.0/
 resourcetype: Document
-title: Electromagnetic Fields and Energy, Sections 3.3-3.6  nonono
+title: Electromagnetic Fields and Energy, Sections 3.3-3.6
 uid: f9fd1822-b34e-ad9f-dea4-f41bba5ca737
 video_files:
   video_captions_file: ''

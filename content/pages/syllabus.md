@@ -1,6 +1,6 @@
 ---
 content_type: page
-title: Syllabus 2
+title: Syllabus
 uid: af47e4fe-a4e2-d97d-9ab5-94d9b349cb9b
 ---
 Course Meeting Times
