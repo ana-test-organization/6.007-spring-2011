@@ -2,6 +2,9 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+parent_title: Lab Videos
+parent_type: CourseSection
 resourcetype: Video
 title: 'Lab 4: Spectrometer'
 uid: 9affe837-4c99-f9a7-d873-ec857997e8c7

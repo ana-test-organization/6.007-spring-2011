@@ -2,6 +2,9 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+parent_title: Lab Videos
+parent_type: CourseSection
 resourcetype: Video
 title: 'Lab 3: Liquid Crystal Displays'
 uid: e3e82506-4620-2725-2b52-6aab24bd0cab

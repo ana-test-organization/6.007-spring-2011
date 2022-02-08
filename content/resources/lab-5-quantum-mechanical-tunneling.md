@@ -2,6 +2,9 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+parent_title: Lab Videos
+parent_type: CourseSection
 resourcetype: Video
 title: 'Lab 5: Quantum Mechanical Tunneling'
 uid: 0614cff5-7b25-e04e-d821-bbe6c7264793

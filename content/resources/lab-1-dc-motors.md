@@ -2,6 +2,9 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+parent_title: Lab Videos
+parent_type: CourseSection
 resourcetype: Video
 title: 'Lab 1: DC Motors'
 uid: 763b8e85-f426-eb74-1874-08698f60efcd

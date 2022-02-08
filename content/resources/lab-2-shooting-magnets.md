@@ -2,6 +2,9 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+parent_title: Lab Videos
+parent_type: CourseSection
 resourcetype: Video
 title: 'Lab 2: Shooting Magnets'
 uid: 012208ce-123a-40fd-4b60-0f02a81790f3
